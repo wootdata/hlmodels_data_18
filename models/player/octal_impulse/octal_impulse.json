@@ -12,7 +12,9 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 936762000,
 	"events": [
 		{
 			"event": 2001,
@@ -122,7 +124,11 @@
 	],
 	"id": 1414743113,
 	"md5": "03220e1ccd752f00c7da3b78cba93610",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Octal_2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

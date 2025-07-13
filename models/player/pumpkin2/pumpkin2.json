@@ -68,6 +68,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -110,6 +111,7 @@
 			"type": 32
 		}
 	],
+	"date": 1592192870,
 	"events": [
 		{
 			"event": 2001,
@@ -219,7 +221,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7b8aa90a328d27855643964c9bb237b0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gordon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

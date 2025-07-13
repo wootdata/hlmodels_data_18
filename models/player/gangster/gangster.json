@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1464406109,
 	"events": [
 		{
 			"event": 5011,
@@ -190,7 +192,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f6ef15ffaad29a5dfe2fd13bed7e1c86",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gangster.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

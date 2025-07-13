@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 979535864,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f84464870b7ce9abbb910cb7581157a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\SIERRA\\Half-Life\\VALVE\\MODELS\\PLAYER\\Blackbeard\\Blackbeard.mdL>",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

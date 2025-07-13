@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -62,6 +63,7 @@
 			"type": 32
 		}
 	],
+	"date": 1050345086,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8473404b01dd0aee9d3d72882018dfd6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Sierra\\modelling_studio\\compile\\tails.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,7 +28,9 @@
 			"name": "fix"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1180794798,
 	"events": [
 		{
 			"event": 2001,
@@ -138,7 +140,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6f338fac1fd52217048def554174945f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\1\\Desktop\\player\\dm_colette\\dm_colette+",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

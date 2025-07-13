@@ -12,7 +12,9 @@
 			"name": "bopdy"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1199255652,
 	"events": [
 		{
 			"event": 2001,
@@ -122,7 +124,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0293952a4950e8eb9eb27f36bcb92180",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "peruball.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

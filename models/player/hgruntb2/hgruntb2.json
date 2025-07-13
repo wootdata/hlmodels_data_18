@@ -98,6 +98,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -132,6 +133,7 @@
 			"type": 8
 		}
 	],
+	"date": 1603560308,
 	"events": [
 		{
 			"event": 2001,
@@ -241,7 +243,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8fc9cac738221aecb8d528bc3530bae7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hecu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

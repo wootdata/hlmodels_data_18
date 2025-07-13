@@ -308,6 +308,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -342,6 +343,7 @@
 			"type": 8
 		}
 	],
+	"date": 1638867108,
 	"events": [
 		{
 			"event": 2001,
@@ -451,7 +453,11 @@
 	],
 	"id": 1414743113,
 	"md5": "96a7647835391998c5802a681da5ae87",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SMG4Meggy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
