@@ -1,0 +1,10 @@
+KIA (Division 5) Model
+======================
+
+Unzip these files (With 'use folder names' enabled) to your 'Half-Life\valve\models\player' folder.
+
+This model and skin is for use solely by the KIA Half-Life (Wireplay) Clan.
+
+The files within this zip can reside on your machine for the purpose of viewing the correct model worn by KIA5, rather than the default model. You are urged not to use it as a model yourself.
+
+Thanks.
