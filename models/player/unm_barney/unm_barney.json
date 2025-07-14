@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 26,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}
@@ -20,15 +20,15 @@
 		{
 			"models": [
 				{
-					"name": "ref1",
-					"polys": 1097,
-					"verts": 541
+					"name": "ref_commander",
+					"polys": 825,
+					"verts": 430
 				}
 			],
-			"name": "body"
+			"name": "studio"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1563149288,
+	"date": 1017358858,
 	"events": [
 		{
 			"event": 2001,
@@ -172,12 +172,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "d63a784b1d1b0acfccbe2313f0e23911",
+	"md5": "62d40e7060cd538f8cd24c71a4b37a08",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "unm_barney.mdl",
+	"name": "C:\\Documents and Settings\\Greg Thompson\\Desktop\\command\\command.",
 	"preview": true,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -566,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 398144,
+	"size": 434624,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -649,16 +649,20 @@
 			"parent": 18
 		}, 
 		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
 			"name": "Bip01 L Finger1",
 			"parent": 17
 		}, 
 		{
 			"name": "Bip01 L Finger11",
-			"parent": 20
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 L Finger12",
-			"parent": 21
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -666,35 +670,39 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Arm2",
 			"parent": 24
 		}, 
 		{
-			"name": "Bip01 R Hand",
+			"name": "Bip01 R Arm2",
 			"parent": 25
 		}, 
 		{
-			"name": "Bip01 R Finger0",
+			"name": "Bip01 R Hand",
 			"parent": 26
 		}, 
 		{
-			"name": "Bip01 R Finger01",
+			"name": "Bip01 R Finger0",
 			"parent": 27
 		}, 
 		{
-			"name": "Bip01 R Finger1",
-			"parent": 26
+			"name": "Bip01 R Finger01",
+			"parent": 28
 		}, 
 		{
-			"name": "Bip01 R Finger11",
+			"name": "Bip01 R Finger02",
 			"parent": 29
 		}, 
 		{
+			"name": "Bip01 R Finger1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
 			"name": "Bip01 R Finger12",
-			"parent": 30
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -702,15 +710,39 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 254,
-			"name": "Remap0_000_255_255.bmp",
-			"width": 252
+			"height": 148,
+			"name": "8_chest.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 255,
-			"name": "Remap1_000_000_159.bmp",
+			"height": 121,
+			"name": "8_legs.bmp",
+			"width": 132
+		}, 
+		{
+			"flags": 0,
+			"height": 96,
+			"name": "8_boot.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 260,
+			"name": "8_arm.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "8_head.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "thumb.bmp",
+			"width": 92
 		}
 	],
 	"version": 10
