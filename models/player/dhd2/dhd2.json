@@ -175,6 +175,7 @@
 	"md5": "eb7cac74b141ade7660b91203db292c7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/q2marine/q2marine.mdl",
 	"preview": false,
 	"readme": false,

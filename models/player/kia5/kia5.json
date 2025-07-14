@@ -175,6 +175,7 @@
 	"md5": "68b521b7b0496762c643eeadf4798f23",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve\\models\\player\\Lobo\\lobo.mdl",
 	"preview": false,
 	"readme": true,

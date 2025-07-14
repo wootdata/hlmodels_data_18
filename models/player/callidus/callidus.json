@@ -175,6 +175,7 @@
 	"md5": "e01d568cca948b297e926541ab6005bf",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/callidus/callidus.mdl",
 	"preview": true,
 	"readme": false,
