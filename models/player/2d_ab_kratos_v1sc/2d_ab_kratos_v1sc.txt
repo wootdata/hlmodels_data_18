@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_ab_kratos
+Source Model Hash : e5dd62dfb5bcfd09b216abe7f0444a35
+Source Model Date : 1542365772 (2018/11/16)
+
+Ported Model Name : 2d_ab_kratos_v1sc
+Ported Model Hash : ab0edb83fad445f2bebe8c29cdd6993b
+Ported Model Date : 1752491304 (2025/07/14)

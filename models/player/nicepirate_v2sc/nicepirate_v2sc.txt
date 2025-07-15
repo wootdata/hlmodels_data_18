@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nicepirate_v2
+Source Model Hash : 2cf7242563b3f6513021557807f29cd8
+Source Model Date : 1583388776 (2020/03/04)
+
+Ported Model Name : nicepirate_v2sc
+Ported Model Hash : 020d6b365b25d51a9d1897c1994f62e8
+Ported Model Date : 1752492093 (2025/07/14)

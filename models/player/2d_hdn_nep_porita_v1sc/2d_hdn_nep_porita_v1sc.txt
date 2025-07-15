@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_hdn_neptune_poritan
+Source Model Hash : 8b0b48e7ef49ea43e4cd45a2d1a679fb
+Source Model Date : 1550258486 (2019/02/15)
+
+Ported Model Name : 2d_hdn_nep_porita_v1sc
+Ported Model Hash : 2ea58552578cda89ad58ad109fb35593
+Ported Model Date : 1752491311 (2025/07/14)

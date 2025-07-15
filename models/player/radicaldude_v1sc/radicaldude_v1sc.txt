@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : radicaldude
+Source Model Hash : 97d30aa4d72ab54f087ecb98b5f000c9
+Source Model Date : 1269243707 (2010/03/22)
+
+Ported Model Name : radicaldude_v1sc
+Ported Model Hash : cd5d3fa4e7af8c7f7ac7d056cb418673
+Ported Model Date : 1752492184 (2025/07/14)

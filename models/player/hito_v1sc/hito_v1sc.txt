@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hito
+Source Model Hash : 9867186ba0762ab8af635eb44df6a410
+Source Model Date : 1269098813 (2010/03/20)
+
+Ported Model Name : hito_v1sc
+Ported Model Hash : ea20302fad1b000ec02764436e2417f9
+Ported Model Date : 1752491798 (2025/07/14)

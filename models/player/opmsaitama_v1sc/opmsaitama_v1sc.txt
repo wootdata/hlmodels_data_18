@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : opmsaitama
+Source Model Hash : 34c6248190f3022eb0f76c19a96cb9a5
+Source Model Date : 1625909739 (2021/07/10)
+
+Ported Model Name : opmsaitama_v1sc
+Ported Model Hash : bda717b205fa149f124067ebec31a2c9
+Ported Model Date : 1752492129 (2025/07/14)

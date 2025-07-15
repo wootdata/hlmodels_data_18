@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : magog
+Source Model Hash : 7da873fdf3f376be531b95a11ba076b8
+Source Model Date : 1429553951 (2015/04/20)
+
+Ported Model Name : magog_v1sc
+Ported Model Hash : cebb4708b1404286ba1a85570411ec91
+Ported Model Date : 1752491982 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ckeen3
+Source Model Hash : cb09b17ebabd76a135d854b37b42528e
+Source Model Date : 1296520252 (2011/01/31)
+
+Ported Model Name : ckeen3_v1sc
+Ported Model Hash : 33e8416e544ef8737e336ebccf2af12e
+Ported Model Date : 1752491480 (2025/07/14)

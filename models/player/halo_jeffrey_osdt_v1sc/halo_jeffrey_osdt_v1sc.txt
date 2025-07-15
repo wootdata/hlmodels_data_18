@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : halo_jeffrey_osdt
+Source Model Hash : 0841a1af3ea2187617b0a12ae9849f75
+Source Model Date : 1236700328 (2009/03/10)
+
+Ported Model Name : halo_jeffrey_osdt_v1sc
+Ported Model Hash : fddac35991ea1cca173ca5e080171313
+Ported Model Date : 1752491766 (2025/07/14)

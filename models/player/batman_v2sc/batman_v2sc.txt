@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : batman_v2
+Source Model Hash : 1583685a209a67401bbf0e43fef8a711
+Source Model Date : 1591331711 (2020/06/04)
+
+Ported Model Name : batman_v2sc
+Ported Model Hash : be694b8096bb60305611e2251f2b995a
+Ported Model Date : 1752491405 (2025/07/14)

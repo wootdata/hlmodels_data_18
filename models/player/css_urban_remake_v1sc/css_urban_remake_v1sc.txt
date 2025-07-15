@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : css_urban_remake
+Source Model Hash : 30f7298e968f41b60c8af04de8130c6f
+Source Model Date : 1268463305 (2010/03/12)
+
+Ported Model Name : css_urban_remake_v1sc
+Ported Model Hash : 3596cab360dfaca94b58864e2770c1ef
+Ported Model Date : 1752491559 (2025/07/14)

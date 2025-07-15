@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : krauser_grunt_v2
+Source Model Hash : c79e3631830a69d6973b90f064ae5758
+Source Model Date : 1523988637 (2018/04/17)
+
+Ported Model Name : krauser_grunt_v2sc
+Ported Model Hash : eaa87dcdbdd00704e029d1efc14a966c
+Ported Model Date : 1752491910 (2025/07/14)

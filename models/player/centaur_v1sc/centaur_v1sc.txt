@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : centaur
+Source Model Hash : 60f6872f4f83f21392da86c8cd850e2e
+Source Model Date : 1268280204 (2010/03/10)
+
+Ported Model Name : centaur_v1sc
+Ported Model Hash : 09f1e0b1ea2fc669ce42cb9633832197
+Ported Model Date : 1752491466 (2025/07/14)

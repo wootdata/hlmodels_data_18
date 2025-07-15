@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hn_iris_heart_a_v3
+Source Model Hash : a269d3d42003b009e913ca8ddbda8e89
+Source Model Date : 1563798073 (2019/07/22)
+
+Ported Model Name : hn_iris_heart_a_v3sc
+Ported Model Hash : 4febbf4007c6733266732a637f548d06
+Ported Model Date : 1752491809 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : garagara
+Source Model Hash : 21bf85a0cc51d2739c08fae899a4bb29
+Source Model Date : 1265120915 (2010/02/02)
+
+Ported Model Name : garagara_v1sc
+Ported Model Hash : 40cbd7356979fdee6ca0498720287ca0
+Ported Model Date : 1752491672 (2025/07/14)

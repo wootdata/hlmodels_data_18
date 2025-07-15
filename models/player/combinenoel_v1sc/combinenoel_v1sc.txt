@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : combinenoel
+Source Model Hash : 2c2affdef902f8c17580eb3dd572e9e3
+Source Model Date : 1293384650 (2010/12/26)
+
+Ported Model Name : combinenoel_v1sc
+Ported Model Hash : 7fbc2c628c40f8d5d64707952881ef4a
+Ported Model Date : 1752491506 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : commander_v2
+Source Model Hash : feb973e1e4f628d1880fc357e61a442f
+Source Model Date : 1583824296 (2020/03/10)
+
+Ported Model Name : commander_v2sc
+Ported Model Hash : 999bf4404a25c6df3518291e1841bbae
+Ported Model Date : 1752491519 (2025/07/14)

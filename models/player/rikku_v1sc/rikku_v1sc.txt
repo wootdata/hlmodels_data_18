@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rikku
+Source Model Hash : e78877ba5907274d27dccb9eef44a163
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : rikku_v1sc
+Ported Model Hash : aa733b0454d98dd71e28722485d62188
+Ported Model Date : 1752492217 (2025/07/14)

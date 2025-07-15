@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stevethesheep
+Source Model Hash : 3e15acfc322e37d86ee66ffd02c476a4
+Source Model Date : 1505414081 (2017/09/14)
+
+Ported Model Name : stevethesheep_v1sc
+Ported Model Hash : a7b881ef58d46338f8abff004ddc0d5f
+Ported Model Date : 1752492345 (2025/07/14)

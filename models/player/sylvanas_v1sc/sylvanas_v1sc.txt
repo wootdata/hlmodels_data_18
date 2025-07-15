@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sylvanas
+Source Model Hash : 429700b16cadcd695fc0bf17cadac8b9
+Source Model Date : 1466345895 (2016/06/19)
+
+Ported Model Name : sylvanas_v1sc
+Ported Model Hash : 05eec050e1f348b95bcb8e741a42a9a4
+Ported Model Date : 1752492355 (2025/07/14)

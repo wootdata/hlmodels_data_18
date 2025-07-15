@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_juggernaut
+Source Model Hash : 13d00f4b78c1fa767ec1b698f6c9a3a0
+Source Model Date : 1477169904 (2016/10/22)
+
+Ported Model Name : cod_juggernaut_v1sc
+Ported Model Hash : e2f64769f0381f7c2db04deb7755a567
+Ported Model Date : 1752491495 (2025/07/14)

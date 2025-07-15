@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spookboy
+Source Model Hash : 71a0db2dce707ca9c3c4ddc43558359d
+Source Model Date : 1538823690 (2018/10/06)
+
+Ported Model Name : spookboy_v1sc
+Ported Model Hash : b949acf444144acf3f9668708766ecd7
+Ported Model Date : 1752492311 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hlf_dedz_grdn
+Source Model Hash : 95c7a68c9e18a1a13f796ff7b214552d
+Source Model Date : 1230198780 (2008/12/25)
+
+Ported Model Name : hlf_dedz_grdn_v1sc
+Ported Model Hash : 6a3415b25a898bbd93c99d8855de25c3
+Ported Model Date : 1752491804 (2025/07/14)

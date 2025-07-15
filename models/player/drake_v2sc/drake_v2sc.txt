@@ -1,0 +1,49 @@
+5-10-00
+
+================================================================
+
+Model Name              : Drake
+
+Author                  : Brian "EvilBastard" Collins
+
+Email Address           : Evilb@planetquake.com
+
+Website Address         : http://www.planetquake.com/polycount/cottages/EvilB
+
+Model description       : 
+
+	The LAPD flavor of the punisher model.
+
+
+================================================================
+
+
+* Construction *
+
+Poly Count              : 766 tris.md2 
+
+Skin Count              : 1 DM
+
+Editor used             : 
+		Modeling - lightwave	
+		Skining  - NST
+		Painting - Photoshop, NST
+
+Known Bugs              : None that i know of.
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : drake_v2
+Source Model Hash : dee90504e0a36a83e8a4791d87b63d18
+Source Model Date : 1583827195 (2020/03/10)
+
+Ported Model Name : drake_v2sc
+Ported Model Hash : dc654b18d0ef96f912e37a81ab4eb64d
+Ported Model Date : 1752491621 (2025/07/14)

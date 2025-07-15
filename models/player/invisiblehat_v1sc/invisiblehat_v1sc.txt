@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : invisiblehat
+Source Model Hash : 6f3232d9fbb1ccab3fdc9cd5b965d0ab
+Source Model Date : 1429452617 (2015/04/19)
+
+Ported Model Name : invisiblehat_v1sc
+Ported Model Hash : 867fcc84314937ef805b4edc69ee04b2
+Ported Model Date : 1752491845 (2025/07/14)

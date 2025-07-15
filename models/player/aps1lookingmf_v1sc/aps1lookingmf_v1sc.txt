@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aps1lookingmf
+Source Model Hash : 4cdd04fb6de5eb398a09e7f0558a5c1b
+Source Model Date : 1703796074 (2023/12/28)
+
+Ported Model Name : aps1lookingmf_v1sc
+Ported Model Hash : f792e051878206fe45565dda303cb103
+Ported Model Date : 1752491364 (2025/07/14)

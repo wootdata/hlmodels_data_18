@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thewastes_ezekial
+Source Model Hash : 19f4c2333e5a1a01b1349aa8cf515e47
+Source Model Date : 1267461504 (2010/03/01)
+
+Ported Model Name : thewastes_ezekial_v1sc
+Ported Model Hash : f4810bef0b79a06873b33dbc1011a829
+Ported Model Date : 1752492411 (2025/07/14)

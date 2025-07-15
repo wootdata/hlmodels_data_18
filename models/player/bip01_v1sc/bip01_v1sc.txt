@@ -1,0 +1,53 @@
+------General Info-------------------------------------------------
+
+Date		:  September 28, 2009
+Title           :  Bip01 - Valve skeleton model
+Filename        :  Bip01.mdl
+Filesize	:  294 kb / 833 kb
+Author          :  napoleon
+Author Email    :  napoleon.i.bonapart@gmail.com
+
+------Model Description---------------------------------------------
+
+New player model for HL and SC. Basically the way I see half life player models.
+
+------Play Information---------------------------------------------
+
+Deathmatch      :  yes
+Single Player   :  no
+Player Overview :  yes
+
+------Construction---------------------------------------------------
+
+Editor(s) used  :  Milk Shape 3d; Photo Philter
+Time to Complete:  10 minutes
+
+------Model Instructions---------------------------------------------
+
+Unzip this file in your half-life/valve/models/player directory, or Sven Coop Directory.  
+
+------Thanks/Credits-------------------------------------------------
+
+AI
+
+------Notes----------------------------------------------------------
+
+I did this from boredom.
+
+---------------------------------------------------------------------
+	
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bip01
+Source Model Hash : 9fab7ac4e2b2d952d764a75d555a1953
+Source Model Date : 1469188949 (2016/07/22)
+
+Ported Model Name : bip01_v1sc
+Ported Model Hash : 1ccd3909d093465becfd565f9952b0e9
+Ported Model Date : 1752491431 (2025/07/14)

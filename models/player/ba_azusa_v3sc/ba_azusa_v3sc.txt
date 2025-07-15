@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ba_azusa_v3
+Source Model Hash : 412e89eaa2987e9810f05c723cdc7b8c
+Source Model Date : 1704223517 (2024/01/02)
+
+Ported Model Name : ba_azusa_v3sc
+Ported Model Hash : 399eaa1e78a223294f5179fef13d784a
+Ported Model Date : 1752491407 (2025/07/14)

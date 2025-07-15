@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sonicshadow_v2
+Source Model Hash : 086752684e886f23efd86dc5d3fad84d
+Source Model Date : 1375313572 (2013/07/31)
+
+Ported Model Name : sonicshadow_v2sc
+Ported Model Hash : dac0b0af950c0d6b7ace8665ceedeebd
+Ported Model Date : 1752492296 (2025/07/14)

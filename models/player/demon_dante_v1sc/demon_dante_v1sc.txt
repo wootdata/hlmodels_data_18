@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : demon_dante
+Source Model Hash : 8f2df856869edeb9ce6bb994606c9d1e
+Source Model Date : 1466075173 (2016/06/16)
+
+Ported Model Name : demon_dante_v1sc
+Ported Model Hash : 714028c919949ab7c62c472d8e15b3ac
+Ported Model Date : 1752491594 (2025/07/14)

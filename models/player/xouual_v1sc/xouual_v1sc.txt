@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xouual
+Source Model Hash : 7ed45594cabbbf9622d7b410fa3fe9a1
+Source Model Date : 1584061862 (2020/03/12)
+
+Ported Model Name : xouual_v1sc
+Ported Model Hash : 3cd1f5f4ab6021c024e3721883109177
+Ported Model Date : 1752492517 (2025/07/14)

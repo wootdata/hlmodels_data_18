@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uboashocker
+Source Model Hash : 5a070f406ecb7634c29524a24f1d9c2b
+Source Model Date : 1582939317 (2020/02/28)
+
+Ported Model Name : uboashocker_v1sc
+Ported Model Hash : 44712f5007e003c0563eef9e9a116d96
+Ported Model Date : 1752492469 (2025/07/14)

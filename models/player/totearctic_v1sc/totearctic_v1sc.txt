@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : totearctic
+Source Model Hash : d0b4957f073763acf79fe74968559fea
+Source Model Date : 1639226128 (2021/12/11)
+
+Ported Model Name : totearctic_v1sc
+Ported Model Hash : f5e48687a3d996f51d10e5e5a4e1e3fb
+Ported Model Date : 1752492433 (2025/07/14)

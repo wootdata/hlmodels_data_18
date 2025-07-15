@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spasgrunt_v2
+Source Model Hash : 06e3c5c60976d884a45f3a183f993159
+Source Model Date : 1583739962 (2020/03/09)
+
+Ported Model Name : spasgrunt_v2sc
+Ported Model Hash : 1fdad60916d8981a6f834a7d363e6c31
+Ported Model Date : 1752492305 (2025/07/14)

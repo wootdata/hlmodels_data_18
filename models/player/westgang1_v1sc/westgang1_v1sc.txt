@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : westgang1
+Source Model Hash : eced91d3ca4758589ef3774f8cefef06
+Source Model Date : 1263409902 (2010/01/13)
+
+Ported Model Name : westgang1_v1sc
+Ported Model Hash : b63719d0de9970aced66e7b3c76bf824
+Ported Model Date : 1752492506 (2025/07/14)

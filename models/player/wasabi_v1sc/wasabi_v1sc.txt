@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wasabi
+Source Model Hash : aa8cd912250151d94fe8d52ef8c0ab84
+Source Model Date : 1263408056 (2010/01/13)
+
+Ported Model Name : wasabi_v1sc
+Ported Model Hash : f3620f9303187e0b3d8fb9b14dca77be
+Ported Model Date : 1752492504 (2025/07/14)

@@ -1,0 +1,19 @@
+Redone for Docrock, by Ash, with help from Wampa.
+visit my site at www.angelfire.com/punk4/criswell 
+or email me @ criswell72@yahoo.com. 
+Docrock loves his babykitkat aswell as his code red mt. dew
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ronscan
+Source Model Hash : cacfcf81e16ae4014c09c6b6330a978e
+Source Model Date : 1591119806 (2020/06/02)
+
+Ported Model Name : ronscan_v1sc
+Ported Model Hash : e358b43f33c194b45f94b262e1497291
+Ported Model Date : 1752492221 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ag_osiris
+Source Model Hash : 807f2028d6d28121518751914da109a9
+Source Model Date : 1666450851 (2022/10/22)
+
+Ported Model Name : ag_osiris_v1sc
+Ported Model Hash : 9d8fbb7b71ef2b180f65a5753fc41038
+Ported Model Date : 1752491340 (2025/07/14)

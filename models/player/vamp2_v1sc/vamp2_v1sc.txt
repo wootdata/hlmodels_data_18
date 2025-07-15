@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vamp2
+Source Model Hash : 8d9a8dbc9a86eaf2134942a4ccc662f4
+Source Model Date : 1582893550 (2020/02/28)
+
+Ported Model Name : vamp2_v1sc
+Ported Model Hash : b6ffe8ba53963fb48a36e75bc4643935
+Ported Model Date : 1752492487 (2025/07/14)

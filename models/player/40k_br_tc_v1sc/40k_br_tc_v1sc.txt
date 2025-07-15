@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_br_tc
+Source Model Hash : 10a37c28fc34ced3f1401a449f7fb32d
+Source Model Date : 1463868248 (2016/05/21)
+
+Ported Model Name : 40k_br_tc_v1sc
+Ported Model Hash : a5b549ba54469193f08c91f0da09b8d1
+Ported Model Date : 1752491322 (2025/07/14)

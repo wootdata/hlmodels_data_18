@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolcaitlynba
+Source Model Hash : a66ca64c50657f776d0936550c111abb
+Source Model Date : 1621560296 (2021/05/20)
+
+Ported Model Name : lolcaitlynba_v1sc
+Ported Model Hash : 26a0dcb0dba04cbdc744b1d35f9ec88f
+Ported Model Date : 1752491956 (2025/07/14)

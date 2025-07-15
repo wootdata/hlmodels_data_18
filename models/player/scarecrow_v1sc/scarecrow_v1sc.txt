@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scarecrow
+Source Model Hash : 84b529b1e482f6b9d2c4f8d08c056fcf
+Source Model Date : 1583370426 (2020/03/04)
+
+Ported Model Name : scarecrow_v1sc
+Ported Model Hash : e3f7dc6c16ba0180bde909ec4aa7338b
+Ported Model Date : 1752492244 (2025/07/14)

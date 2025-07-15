@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sprunki_vineria
+Source Model Hash : c1df05752463c0edfeca6c4f60aa3631
+Source Model Date : 1744804101 (2025/04/16)
+
+Ported Model Name : sprunki_vineria_v1sc
+Ported Model Hash : 4f66e7a949734ad085aad0f729c77b64
+Ported Model Date : 1752492313 (2025/07/14)

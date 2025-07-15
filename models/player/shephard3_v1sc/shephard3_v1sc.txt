@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shephard3
+Source Model Hash : 0dc0518f82eb0fe16ce45adf90993697
+Source Model Date : 1644681015 (2022/02/12)
+
+Ported Model Name : shephard3_v1sc
+Ported Model Hash : a9c60a2431f67407bd3ac69af4739781
+Ported Model Date : 1752492266 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : skeleton_scientist
+Source Model Hash : 8c8a76a0bf38035bb6c6b5175824c2fb
+Source Model Date : 1293116396 (2010/12/23)
+
+Ported Model Name : skeleton_sci_v1sc
+Ported Model Hash : 435b90ac76507af3383e12a990838a7c
+Ported Model Date : 1752492279 (2025/07/14)

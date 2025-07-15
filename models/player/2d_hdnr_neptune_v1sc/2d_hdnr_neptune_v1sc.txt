@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_hdnr_neptune
+Source Model Hash : 3deaf2d7707c8859b5b8344a108d5160
+Source Model Date : 1553684488 (2019/03/27)
+
+Ported Model Name : 2d_hdnr_neptune_v1sc
+Ported Model Hash : 158b9a12a4a57839ba64fe470d8893ba
+Ported Model Date : 1752491308 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cybil_bennett
+Source Model Hash : 376f5edaa95a0cfb224904f308a9cb41
+Source Model Date : 1737374069 (2025/01/20)
+
+Ported Model Name : cybil_bennett_v1sc
+Ported Model Hash : 08a753bd2c8d802d3f1996a29a512ea9
+Ported Model Date : 1752491573 (2025/07/14)

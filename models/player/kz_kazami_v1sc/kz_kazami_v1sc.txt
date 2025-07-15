@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_kazami
+Source Model Hash : cc1dfc619cfd3ac5736d9cb3bf3404d1
+Source Model Date : 1541883034 (2018/11/10)
+
+Ported Model Name : kz_kazami_v1sc
+Ported Model Hash : bfe56c1c3fde0171f00790492b65c583
+Ported Model Date : 1752491920 (2025/07/14)

@@ -1,0 +1,31 @@
+Credits:
+
+Models & original skins by: Gabor Design
+Nina Snipes' head: I don't know but I'm sure that somebody does
+Hack/Reshape/Reskin and 1.6 conversion by: HalfGenius
+
+some LAca attachments, textures used (among others)
+(some credits may be missing/unknown) e-mail me with specifics if I left anyone out.
+
+Likenesses include: 
+
+Carmen Electra (terror)
+Sung Hi Lee (leet)
+unknown blonde (take a close look at the texture and if you think you know, e-mail me)
+
+e-mail me at: info@halfgenius.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : civ_zombie2
+Source Model Hash : 7e5fd34456b5fc2998d217eb65485443
+Source Model Date : 1266823390 (2010/02/21)
+
+Ported Model Name : civ_zombie2_v1sc
+Ported Model Hash : ddda192eaa066f7658813e07bf9fe9d5
+Ported Model Date : 1752491478 (2025/07/14)

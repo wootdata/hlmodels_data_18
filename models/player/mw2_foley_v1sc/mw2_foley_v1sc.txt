@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_foley
+Source Model Hash : f71a862d259d7dae21be80cd11ad2fb9
+Source Model Date : 1281609369 (2010/08/12)
+
+Ported Model Name : mw2_foley_v1sc
+Ported Model Hash : ad2c1fb71e889828556d972a286a3891
+Ported Model Date : 1752492050 (2025/07/14)

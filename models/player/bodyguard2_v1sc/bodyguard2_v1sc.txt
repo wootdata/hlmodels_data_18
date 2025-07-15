@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bodyguard2
+Source Model Hash : 684b7abe0223bbfd3bee5d28cdd67dd3
+Source Model Date : 1564917356 (2019/08/04)
+
+Ported Model Name : bodyguard2_v1sc
+Ported Model Hash : 9e976ed67f3d7a442643add268ab3bd4
+Ported Model Date : 1752491442 (2025/07/14)

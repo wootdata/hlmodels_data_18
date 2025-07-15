@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : watanabeyou_r
+Source Model Hash : b75a9a98ff468a87c7a25aed05d794c2
+Source Model Date : 1586401980 (2020/04/08)
+
+Ported Model Name : watanabeyou_r_v1sc
+Ported Model Hash : 7aed54356d24d249d65ae4be56824462
+Ported Model Date : 1752492504 (2025/07/14)

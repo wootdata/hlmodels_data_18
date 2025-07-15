@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cm3d2_gonome
+Source Model Hash : a76adc12cd17a9e23d064f79eb43151c
+Source Model Date : 1647946961 (2022/03/22)
+
+Ported Model Name : cm3d2_gonome_v1sc
+Ported Model Hash : 8593ea6552385353c648d10ace0fa57f
+Ported Model Date : 1752491488 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : plutia04_mazz_v2
+Source Model Hash : 77cf87513a5ea996c9c1fe1217d4325d
+Source Model Date : 1583381240 (2020/03/04)
+
+Ported Model Name : plutia04_mazz_v2sc
+Ported Model Hash : 5cc4a962d095b3c3c17f959d38a4b244
+Ported Model Date : 1752492160 (2025/07/14)

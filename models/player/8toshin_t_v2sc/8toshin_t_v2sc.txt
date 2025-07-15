@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 8toshin_t_v2
+Source Model Hash : 57bae7ab9540bd9675550b46d17ed027
+Source Model Date : 1591343050 (2020/06/05)
+
+Ported Model Name : 8toshin_t_v2sc
+Ported Model Hash : 32006a6ba9baeda297b6c3625596477a
+Ported Model Date : 1752491325 (2025/07/14)

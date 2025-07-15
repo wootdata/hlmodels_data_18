@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lsd_ghostlady
+Source Model Hash : 6c5456d4a121f033f617cf050791d933
+Source Model Date : 1653505848 (2022/05/25)
+
+Ported Model Name : lsd_ghostlady_v1sc
+Ported Model Hash : f6264a4ed7c1875707294ca02ee1ae78
+Ported Model Date : 1752491967 (2025/07/14)

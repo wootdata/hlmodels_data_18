@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : noita_witch
+Source Model Hash : 0a9c9daa66598061055b1de5d8a57b9c
+Source Model Date : 1606840913 (2020/12/01)
+
+Ported Model Name : noita_witch_v1sc
+Ported Model Hash : 8bac429d649211912c84ac42ecc0a44c
+Ported Model Date : 1752492098 (2025/07/14)

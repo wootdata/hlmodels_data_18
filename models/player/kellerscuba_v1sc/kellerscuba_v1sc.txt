@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kellerscuba
+Source Model Hash : 60715709566b0265e8ec4e8702316ac0
+Source Model Date : 1583353890 (2020/03/04)
+
+Ported Model Name : kellerscuba_v1sc
+Ported Model Hash : 7e10c169ef7f565aa72205c87cb3b27f
+Ported Model Date : 1752491880 (2025/07/14)

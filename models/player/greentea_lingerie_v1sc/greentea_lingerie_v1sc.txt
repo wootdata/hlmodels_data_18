@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : greentea_lingerie
+Source Model Hash : 03b21717a3351782ccbd31239bdf70d5
+Source Model Date : 1664906924 (2022/10/04)
+
+Ported Model Name : greentea_lingerie_v1sc
+Ported Model Hash : 89b19a4d8eb79bfcda0c9a009fc88541
+Ported Model Date : 1752491739 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mariomeleebrawl
+Source Model Hash : 9d592bf4de7ba66eeaba6b08defe911e
+Source Model Date : 1681841568 (2023/04/18)
+
+Ported Model Name : mariomeleebrawl_v1sc
+Ported Model Hash : 2c1348f25d176db96a0cafbd7cd0f8f4
+Ported Model Date : 1752491987 (2025/07/14)

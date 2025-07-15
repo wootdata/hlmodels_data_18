@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : felix_argyle
+Source Model Hash : 6afdf205e793740f1e7a1419b8d2521a
+Source Model Date : 1647676779 (2022/03/19)
+
+Ported Model Name : felix_argyle_v1sc
+Ported Model Hash : a8d484c109946073b9a298974e1238dd
+Ported Model Date : 1752491648 (2025/07/14)

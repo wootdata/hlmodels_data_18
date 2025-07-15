@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pusherrobot
+Source Model Hash : 2bee5c2d967187a5350b4244b07dc595
+Source Model Date : 1265808514 (2010/02/10)
+
+Ported Model Name : pusherrobot_v1sc
+Ported Model Hash : edf432795f2abec6ec958a8ec3ce4a09
+Ported Model Date : 1752492173 (2025/07/14)

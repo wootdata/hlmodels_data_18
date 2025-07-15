@@ -1,0 +1,26 @@
+Reskin pack by, civilian soldier.
+
+This is version 2, if you're wondering version 2 is at: 
+
+http://zpanic.hl2files.com/forums/index.php?showtopic=1839
+
+Also, please visit:
+
+http://www.oraculustudios.com/
+
+Anim Transfer: CyborgDragon
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : civ_survivor3
+Source Model Hash : e5ede89ab16c79d038cf0630ec792af4
+Source Model Date : 1266822219 (2010/02/21)
+
+Ported Model Name : civ_survivor3_v1sc
+Ported Model Hash : 2ff36e696175cba41dfec62ec7425262
+Ported Model Date : 1752491478 (2025/07/14)

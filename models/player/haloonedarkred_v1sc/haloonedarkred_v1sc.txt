@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : haloonedarkred
+Source Model Hash : 57237b20e0d2643b87dce7b6883dab28
+Source Model Date : 1236707390 (2009/03/10)
+
+Ported Model Name : haloonedarkred_v1sc
+Ported Model Hash : 2d4548bc6a116b80c87bd8095f6436bc
+Ported Model Date : 1752491763 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : haydee_black_hd
+Source Model Hash : cc5cfbc07b3d0d99633aac433662e729
+Source Model Date : 1552313838 (2019/03/11)
+
+Ported Model Name : haydee_black_hd_v1sc
+Ported Model Hash : d0554941141eca32887ead780e82cbfb
+Ported Model Date : 1752491771 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : santaclaus
+Source Model Hash : d4acb6a114e3bb5f9c08c3aefacf1b4d
+Source Model Date : 1454615677 (2016/02/04)
+
+Ported Model Name : santaclaus_v1sc
+Ported Model Hash : bc2d5d94a4e1058df909ff68496fdcbd
+Ported Model Date : 1752492235 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : subzero
+Source Model Hash : dcb7dd6aa94240d4dd6e14642be4cfc8
+Source Model Date : 1456951003 (2016/03/02)
+
+Ported Model Name : subzero_v1sc
+Ported Model Hash : 0b05b4165684949568848d811454836b
+Ported Model Date : 1752492349 (2025/07/14)

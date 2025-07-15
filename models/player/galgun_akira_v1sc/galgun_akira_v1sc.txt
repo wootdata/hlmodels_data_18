@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : galgun_akira
+Source Model Hash : 941bc438623c30695287dff0a1a147cd
+Source Model Date : 1541586417 (2018/11/07)
+
+Ported Model Name : galgun_akira_v1sc
+Ported Model Hash : db9b91b9c856ece505ef9e659c77fe56
+Ported Model Date : 1752491670 (2025/07/14)

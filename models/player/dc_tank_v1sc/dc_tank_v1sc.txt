@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dc_tank
+Source Model Hash : 2d5824af8569f3aa0afa3b9a82491385
+Source Model Date : 1158385572 (2006/09/15)
+
+Ported Model Name : dc_tank_v1sc
+Ported Model Hash : 74821c0dbcf06d84eb3aa1dec406de85
+Ported Model Date : 1752491591 (2025/07/14)

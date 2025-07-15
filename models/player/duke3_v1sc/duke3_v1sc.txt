@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : duke3
+Source Model Hash : cdf61e38deefe96544a93830be8bad6c
+Source Model Date : 1586469770 (2020/04/09)
+
+Ported Model Name : duke3_v1sc
+Ported Model Hash : a433ffbcf31cbc785401c1450bebc30d
+Ported Model Date : 1752491625 (2025/07/14)

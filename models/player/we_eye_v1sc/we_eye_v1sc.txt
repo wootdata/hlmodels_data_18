@@ -1,0 +1,22 @@
+ALL credit for this model goes to the Warhammer Half Life Modification Team. I take absolutely no responsibility for creation of these models.
+
+THE NAME OF THE MODEL HAS NOT BEEN CHANGED DUE TO LEGAL PURPOSES!!
+
+These models are given the correct animations for Sven Co-Op 3.0 by [SAH]ReCkLeSs_KiLLa. 
+Once again, I TAKE ABSOLUTELY NO CREDIT FOR THE CREATION OF THESE MODELS. 
+THANK THE Warhammer MODIFICATION TEAM!!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : we_eye
+Source Model Hash : c2d1c62cfa1c709864bf54e449499823
+Source Model Date : 1264528838 (2010/01/26)
+
+Ported Model Name : we_eye_v1sc
+Ported Model Hash : 94c996ef33e9802a0989b531add22a64
+Ported Model Date : 1752492507 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : odori
+Source Model Hash : 13d6c108b336bd6b92632e5044d64088
+Source Model Date : 1264748753 (2010/01/28)
+
+Ported Model Name : odori_v1sc
+Ported Model Hash : ba2d00cb2180727d3737549396c3ee66
+Ported Model Date : 1752492113 (2025/07/14)

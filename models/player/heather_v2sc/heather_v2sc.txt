@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : heather_v2
+Source Model Hash : d8bb72e4a172f6f27f2bf251e7304344
+Source Model Date : 1583057314 (2020/03/01)
+
+Ported Model Name : heather_v2sc
+Ported Model Hash : b62a1e39ae59188cdef83d28887c2369
+Ported Model Date : 1752491779 (2025/07/14)

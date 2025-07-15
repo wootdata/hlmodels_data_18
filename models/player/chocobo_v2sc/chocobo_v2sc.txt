@@ -1,0 +1,29 @@
+Chocobo
+Version 0.5
+Modeled by: Peam (1999) 	email: peam_p@yahoo.com
+Site: www.geocities.com/siliconvalley/lab/3189/
+
+Speacial thanks to: Spider, provider of model tutoring		
+--------------------------------------------------------------------------------------------
+
+Comments
+-----------------
+- Chocobo is always in flight and CANNOT crouch.
+- Low polygon count and no differences between hi and lo resolution models
+
+Enjoy!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chocobo_v2
+Source Model Hash : 3d316035413f3fa7b0e69bca006bd481
+Source Model Date : 1583573421 (2020/03/07)
+
+Ported Model Name : chocobo_v2sc
+Ported Model Hash : 688e3bf0578c9cacbe68d6cc605000ef
+Ported Model Date : 1752491473 (2025/07/14)

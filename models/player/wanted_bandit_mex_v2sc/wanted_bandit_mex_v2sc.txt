@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wanted_bandit_mex_v2
+Source Model Hash : acea4485b74412067e66b5df471a72be
+Source Model Date : 1528090884 (2018/06/03)
+
+Ported Model Name : wanted_bandit_mex_v2sc
+Ported Model Hash : d345ba832e16753530174fbe32228942
+Ported Model Date : 1752492502 (2025/07/14)

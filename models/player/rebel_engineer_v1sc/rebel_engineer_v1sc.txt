@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rebel_engineer
+Source Model Hash : a0038155bb278274852d5739945e50a3
+Source Model Date : 1269247230 (2010/03/22)
+
+Ported Model Name : rebel_engineer_v1sc
+Ported Model Hash : e80d6b426fae296847aea5d4358d3396
+Ported Model Date : 1752492193 (2025/07/14)

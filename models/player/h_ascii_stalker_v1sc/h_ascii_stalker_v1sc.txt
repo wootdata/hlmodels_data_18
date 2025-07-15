@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : h_ascii_stalker
+Source Model Hash : a3a011b168e77b51e5b5fa5b587056ae
+Source Model Date : 1719182477 (2024/06/23)
+
+Ported Model Name : h_ascii_stalker_v1sc
+Ported Model Hash : 62f223a98468a3da18492ed8f1b93188
+Ported Model Date : 1752491839 (2025/07/14)

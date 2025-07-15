@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : motv_neet
+Source Model Hash : b51515843f1dffa2cc652b83d2b9b0e7
+Source Model Date : 1485050761 (2017/01/21)
+
+Ported Model Name : motv_neet_v1sc
+Ported Model Hash : e053caaeb58bb0b8006724756c3bac23
+Ported Model Date : 1752492043 (2025/07/14)

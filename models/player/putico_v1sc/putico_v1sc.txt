@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : putico
+Source Model Hash : 424c5812efc3746d8f3e1f2c6ece5849
+Source Model Date : 1265809105 (2010/02/10)
+
+Ported Model Name : putico_v1sc
+Ported Model Hash : ccf5f151105f39b09fdd27ac9c98c2bc
+Ported Model Date : 1752492173 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oldsuit_rusty1
+Source Model Hash : 8a97188d6de2dd7437e3d663c56a516c
+Source Model Date : 1497562060 (2017/06/15)
+
+Ported Model Name : oldsuit_rusty1_v1sc
+Ported Model Hash : dc24ee1c016b82a3c568e5ad88ae7912
+Ported Model Date : 1752492115 (2025/07/14)

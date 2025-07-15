@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cx_mordekai
+Source Model Hash : 157fe2fb285a73c96b3e61552a0ebcd5
+Source Model Date : 1579695384 (2020/01/22)
+
+Ported Model Name : cx_mordekai_v1sc
+Ported Model Hash : 9a038752db56fc4297201108bd16bd41
+Ported Model Date : 1752491571 (2025/07/14)
