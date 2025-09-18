@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bts_otis1
+Source Model Hash : 376aecbfeb6a332c9434840f4d8c78f9
+Source Model Date : 1749388702 (2025/06/08)
+
+Ported Model Name : bts_otis1_v1sc
+Ported Model Hash : cf47740931a9261185f7bd44dda7dc5a
+Ported Model Date : 1758225729 (2025/09/18)

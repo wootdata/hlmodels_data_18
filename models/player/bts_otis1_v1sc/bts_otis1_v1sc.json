@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223610,
+	"date": 1758225729,
 	"events": [
 		{
 			"event": 2003,
@@ -351,7 +351,7 @@
 	"modid": 14,
 	"name": "bts_otis.mdl",
 	"preview": false,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
