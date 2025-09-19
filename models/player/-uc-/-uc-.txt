@@ -1,0 +1,4 @@
+Model: -UC-
+Author: softrat
+Released: 1/22/2000
+Size: 190kb

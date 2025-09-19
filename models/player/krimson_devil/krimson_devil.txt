@@ -1,0 +1,26 @@
+********************************************>)))D*******************************************
+
+                                  Krimson Devil - by >)))D
+
+
+I was just messing about, editing this and that, when I came up with this idea.  It's my first 'real' model / skin modification, (or at least, the first decent one!).  
+Credit where it's due to DJmarko, the model-maker who created the original Batman Beyond model.  Without his skill, this skin would have never been.
+
+Feel free to distribute this skin and / or any of it's affiliated images, (just please credit my name wherever file is displayed), or e-mail me with comments.
+
+E-mail >))D - mr.cod@bigfoot.com
+
+********************************************>)))D*******************************************
+
+If need be, place the two "Krimson Devil" files in a folder called "Krimson Devil" in the
+
+\sierra\half-life\valve\models\player folder.
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.

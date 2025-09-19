@@ -1,0 +1,44 @@
+
+
+Maxhelmet - Skin
+
+--------------------------------------------
+
+Pretty straight forward . . . Max´s HEV-suit . . . helmet included.
+
+Tao Xing found it in his kitchen under the sink,
+while looking for his favorite chopsticks . . .
+
+. . . apparently . . . Max left it on his last visit half a year ago.
+
+When Max came to pick it up wearing his HEV-suit . . . Tao asked him if he could
+make a duplicate of the whole thing . . .
+
+. . . AND HERE IT IS . . . 
+
+Max uses the full suit - in extreme hazardous environments and in teamwork . . .
+
+. . . you´re welcome to do the same . . .
+
+
+---------------------------------------------
+
+Create a new folder in the valve/models/player - and name it "Maxhelmet" . . .
+. . . place the MDL-file and maxhelmet-BMP-file in this folder . . .
+. . . the maxlogo-BMP-file goes in the "logos" folder . . .
+
+Start the game . . . choose "Maxhelmet" in the Multiplayer/Customize section . . .
+and the "maxlogo" spraypaint . . .
+
+. . . and you´re all set!
+
+(. . . or type "model maxhelmet" in the console . . . while in the game).
+
+---------------------------------------------
+
+Best wishes
+
+Max5
+
+:)
+

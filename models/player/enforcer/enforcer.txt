@@ -1,0 +1,18 @@
+Enforcer Skin
+by Trunks < blaze@tnx.com >
+
+*NOTICE*
+You can change the colors on this mod!!!
+********
+
+Place the two trooper files the
+\sierra\half-life\valve\models\player folder.
+
+********
+This is the !!1st!! TeamFortressClassic SKin! It was made under the Scout base, and I think it turned out extremely well for the 1st TFC skin. This is made for DeathMatch only! You wouldn't want to use Enforcer for TFC, but I will make some skins for TFC in the near future.
+********
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For a player model to be visible to all clients playing, it must be installed on the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the .bmp file necessary for selecting the model in the interface: models must be deliberately installed by the player.
