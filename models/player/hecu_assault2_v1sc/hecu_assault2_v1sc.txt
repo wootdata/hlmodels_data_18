@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hecu_assault2
+Source Model Hash : 39a99d332fb7f9d97b9a48351053791f
+Source Model Date : 1775304575 (2026/04/04)
+
+Ported Model Name : hecu_assault2_v1sc
+Ported Model Hash : fee72f8ae68af3518be0f59453bf185f
+Ported Model Date : 1780823023 (2026/06/07)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : otacon
+Source Model Hash : abec2ad959a4f240e1cf97732af324c6
+Source Model Date : 1778984723 (2026/05/16)
+
+Ported Model Name : otacon_v1sc
+Ported Model Hash : b8d5a19e2a07ea495fd897df4d9c41b6
+Ported Model Date : 1780823045 (2026/06/07)

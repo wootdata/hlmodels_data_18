@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lab1_comp1
+Source Model Hash : 1ffcb5f2817cb12ddf169e7875d289d6
+Source Model Date : 1777657245 (2026/05/01)
+
+Ported Model Name : lab1_comp1_v1sc
+Ported Model Hash : 1b6a666a6ca2099830b72100b14ef691
+Ported Model Date : 1780823042 (2026/06/07)
